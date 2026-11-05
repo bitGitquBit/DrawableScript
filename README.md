@@ -19,7 +19,7 @@ Below is a visual preview of how a standard sentence renders in this script:
 > "The quick brown fox jumps over the lazy dog."
 
 ### Custom Phonetic Script
-![Sample Sentence Rendered in Custom Script](glyphs/sample_sentence.svg)
+![Sample Sentence Rendered in Custom Script](Alphabet/a.svg)
 
 ---
 
