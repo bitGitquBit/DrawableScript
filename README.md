@@ -16,10 +16,10 @@ A script for English I designed to "draw" words and sentences.
 Below is a visual preview of how a standard sentence renders in this script:
 
 ### Standard English
-> "The quick brown fox jumps over the lazy dog."
+> "Hello World"
 
 ### Custom Phonetic Script
-![Sample Sentence Rendered in Custom Script](Alphabet/a.svg)![](Alphabet/b.svg)
+![Sample Sentence Rendered in Custom Script](hello_world.svg)
 
 ---
 

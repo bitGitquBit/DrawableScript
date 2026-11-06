@@ -8,7 +8,7 @@
 | I | ![](Alphabets/i.svg) |
 | O | ![](Alphabets/o.svg) |
 | U | ![](Alphabets/u.svg) |
-| AE | ![](Alphabets/u.svg) |
+| AE | ![](Alphabets/ae.svg) |
 | A_Back | ![](Alphabets/a_back.svg)
 
 ## Consonants
