@@ -2,13 +2,13 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="500"
-   height="500"
+   width="250"
+   height="250"
    viewBox="0 0 132.29167 132.29167"
    version="1.1"
    id="svg1"
    inkscape:version="1.4.4 (dcaf3e7, 2026-05-05)"
-   sodipodi:docname="backbone.svg"
+   sodipodi:docname="backbone_rounded.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -24,8 +24,8 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="px"
      inkscape:zoom="1.3095539"
-     inkscape:cx="326.06523"
-     inkscape:cy="288.2661"
+     inkscape:cx="325.68343"
+     inkscape:cy="288.26611"
      inkscape:window-width="1920"
      inkscape:window-height="974"
      inkscape:window-x="-11"
@@ -76,8 +76,9 @@
      inkscape:groupmode="layer"
      id="layer1">
     <path
-       style="stroke:currentColor;stroke-width:0.746001"
-       d="M 12.991076,65.772834 H 119.0625"
-       id="path5" />
+       style="fill:none;stroke:currentColor;stroke-width:0.746001"
+       d="m 13.229167,66.518836 c 0,0 13.40627,0.194109 19.843751,0 12.37027,-0.373001 20.681848,-16.971438 33.072917,-16.971429 12.391078,9e-6 20.500115,16.598428 33.072918,16.971491 6.514557,0.193301 20.081837,-6.2e-5 20.081837,-6.2e-5"
+       id="path5"
+       sodipodi:nodetypes="csssc" />
   </g>
 </svg>

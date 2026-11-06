@@ -2,13 +2,13 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="500"
-   height="500"
+   width="250"
+   height="250"
    viewBox="0 0 132.29167 132.29167"
    version="1.1"
    id="svg1"
    inkscape:version="1.4.4 (dcaf3e7, 2026-05-05)"
-   sodipodi:docname="backbone_rounded.svg"
+   sodipodi:docname="q.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -24,24 +24,25 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="px"
      inkscape:zoom="1.3095539"
-     inkscape:cx="325.68343"
-     inkscape:cy="288.26611"
+     inkscape:cx="325.30162"
+     inkscape:cy="288.2661"
      inkscape:window-width="1920"
      inkscape:window-height="974"
      inkscape:window-x="-11"
      inkscape:window-y="-11"
      inkscape:window-maximized="1"
      inkscape:current-layer="layer1"
-     showguides="true">
+     showguides="true"
+     showgrid="false">
     <sodipodi:guide
-       position="66.145835,84.666669"
+       position="66.145835,105.83334"
        orientation="0,1"
        id="guide1"
        inkscape:locked="false"
        inkscape:label=""
        inkscape:color="rgb(0,134,229)" />
     <sodipodi:guide
-       position="66.145835,47.625001"
+       position="66.145835,26.458334"
        orientation="0,1"
        id="guide2"
        inkscape:locked="false"
@@ -77,8 +78,20 @@
      id="layer1">
     <path
        style="fill:none;stroke:currentColor;stroke-width:0.746001"
-       d="m 13.229167,66.518836 c 0,0 13.40627,0.194109 19.843751,0 12.37027,-0.373001 20.681848,-16.971438 33.072917,-16.971429 12.391078,9e-6 20.500115,16.598428 33.072918,16.971491 6.514557,0.193301 20.081837,-6.2e-5 20.081837,-6.2e-5"
+       d="m 12.991076,65.772834 h 8.175591 l 15.875001,-19.57235 15.875,19.57235 H 63.500002 L 74.083335,50.270835 H 100.54167 L 111.125,65.772834 h 7.9375"
        id="path5"
-       sodipodi:nodetypes="csssc" />
+       sodipodi:nodetypes="ccccccccc" />
+    <circle
+       style="fill:currentColor;stroke:none;stroke-width:0.0869778"
+       id="path1"
+       cx="37.041668"
+       cy="57.255836"
+       r="1.6933334" />
+    <circle
+       style="fill:currentColor;stroke:none;stroke-width:0.0869778"
+       id="circle1"
+       cx="87.3125"
+       cy="57.255836"
+       r="1.6933334" />
   </g>
 </svg>

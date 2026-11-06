@@ -2,13 +2,13 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="500"
-   height="500"
+   width="250"
+   height="250"
    viewBox="0 0 132.29167 132.29167"
    version="1.1"
    id="svg1"
    inkscape:version="1.4.4 (dcaf3e7, 2026-05-05)"
-   sodipodi:docname="m.svg"
+   sodipodi:docname="backbone.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -24,7 +24,7 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="px"
      inkscape:zoom="1.3095539"
-     inkscape:cx="326.44704"
+     inkscape:cx="326.06523"
      inkscape:cy="288.2661"
      inkscape:window-width="1920"
      inkscape:window-height="974"
@@ -76,9 +76,8 @@
      inkscape:groupmode="layer"
      id="layer1">
     <path
-       style="fill:none;stroke:currentColor;stroke-width:0.746125"
-       d="m 13.229167,66.145835 c 0,0 23.313933,-0.423676 34.395834,2.645833 11.403183,3.158499 31.750001,15.875001 31.750001,15.875001 H 52.916668 c 0,0 20.346818,-12.716502 31.750001,-15.875001 11.0819,-3.069509 34.395831,-2.645833 34.395831,-2.645833"
-       id="path1"
-       sodipodi:nodetypes="caccac" />
+       style="stroke:currentColor;stroke-width:0.746001"
+       d="M 12.991076,65.772834 H 119.0625"
+       id="path5" />
   </g>
 </svg>

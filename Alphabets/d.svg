@@ -2,13 +2,13 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="500"
-   height="500"
+   width="250"
+   height="250"
    viewBox="0 0 132.29167 132.29167"
    version="1.1"
    id="svg1"
    inkscape:version="1.4.4 (dcaf3e7, 2026-05-05)"
-   sodipodi:docname="a.svg"
+   sodipodi:docname="d.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -24,8 +24,8 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="px"
      inkscape:zoom="1.8519889"
-     inkscape:cx="315.87663"
-     inkscape:cy="274.02972"
+     inkscape:cx="309.66709"
+     inkscape:cy="276.18957"
      inkscape:window-width="1920"
      inkscape:window-height="974"
      inkscape:window-x="-11"
@@ -34,14 +34,14 @@
      inkscape:current-layer="layer1"
      showguides="true">
     <sodipodi:guide
-       position="66.145835,105.83334"
+       position="66.145835,84.666669"
        orientation="0,1"
        id="guide1"
        inkscape:locked="false"
        inkscape:label=""
        inkscape:color="rgb(0,134,229)" />
     <sodipodi:guide
-       position="66.145835,26.458334"
+       position="66.145835,47.625001"
        orientation="0,1"
        id="guide2"
        inkscape:locked="false"
@@ -75,15 +75,21 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1">
-    <path
-       style="stroke:currentColor;stroke-width:0.746001"
-       d="M 12.991076,65.772834 H 119.0625"
-       id="path5" />
-    <circle
-       style="fill:currentColor;stroke-width:0.0924163"
-       id="path1"
-       cx="66.145836"
-       cy="58.208336"
-       r="1.6933334" />
+    <g
+       id="g6"
+       transform="translate(0,16.971429)">
+      <path
+         style="fill:none;stroke:currentColor;stroke-width:0.746001"
+         d="m 13.229167,49.633851 c 0,0 13.40627,-0.194109 19.843751,0 12.37027,0.373001 20.681848,16.971438 33.072917,16.971429 12.391078,-9e-6 20.500115,-16.598428 33.072918,-16.971491 6.514557,-0.193301 20.081837,6.2e-5 20.081837,6.2e-5"
+         id="path5"
+         sodipodi:nodetypes="csssc" />
+      <circle
+         style="fill:currentColor;stroke-width:0.746001"
+         id="path6"
+         cx="66.148422"
+         cy="-57.6497"
+         r="1.3229167"
+         transform="scale(1,-1)" />
+    </g>
   </g>
 </svg>

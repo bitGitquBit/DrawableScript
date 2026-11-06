@@ -2,13 +2,13 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="500"
-   height="500"
+   width="250"
+   height="250"
    viewBox="0 0 132.29167 132.29167"
    version="1.1"
    id="svg1"
    inkscape:version="1.4.4 (dcaf3e7, 2026-05-05)"
-   sodipodi:docname="sh.svg"
+   sodipodi:docname="s.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -80,11 +80,5 @@
        d="m 13.229167,66.518836 h 27.781251 c 0,0 3.854543,-16.769397 25.135417,-16.971429 21.280874,-0.202032 25.135417,16.971491 25.135417,16.971491 l 28.019338,-6.2e-5"
        id="path5"
        sodipodi:nodetypes="cczcc" />
-    <circle
-       style="fill:currentColor;stroke-width:0.0690113"
-       id="circle1"
-       cx="66.145836"
-       cy="44.026669"
-       r="1.6933334" />
   </g>
 </svg>

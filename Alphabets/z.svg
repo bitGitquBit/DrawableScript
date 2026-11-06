@@ -2,13 +2,13 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="500"
-   height="500"
+   width="250"
+   height="250"
    viewBox="0 0 132.29167 132.29167"
    version="1.1"
    id="svg1"
    inkscape:version="1.4.4 (dcaf3e7, 2026-05-05)"
-   sodipodi:docname="ae.svg"
+   sodipodi:docname="z.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -23,9 +23,9 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="px"
-     inkscape:zoom="1.8519889"
-     inkscape:cx="315.87663"
-     inkscape:cy="274.02972"
+     inkscape:zoom="1.3095539"
+     inkscape:cx="326.06523"
+     inkscape:cy="288.2661"
      inkscape:window-width="1920"
      inkscape:window-height="974"
      inkscape:window-x="-11"
@@ -34,14 +34,14 @@
      inkscape:current-layer="layer1"
      showguides="true">
     <sodipodi:guide
-       position="66.145835,105.83334"
+       position="66.145835,84.666669"
        orientation="0,1"
        id="guide1"
        inkscape:locked="false"
        inkscape:label=""
        inkscape:color="rgb(0,134,229)" />
     <sodipodi:guide
-       position="66.145835,26.458334"
+       position="66.145835,47.625001"
        orientation="0,1"
        id="guide2"
        inkscape:locked="false"
@@ -76,20 +76,15 @@
      inkscape:groupmode="layer"
      id="layer1">
     <path
-       style="stroke:currentColor;stroke-width:0.746001"
-       d="M 12.991076,65.772834 H 119.0625"
-       id="path5" />
+       style="fill:none;stroke:currentColor;stroke-width:0.746001"
+       d="m 13.229167,66.518836 h 27.781251 c 0,0 3.854543,-16.769397 25.135417,-16.971429 21.280874,-0.202032 25.135417,16.971491 25.135417,16.971491 l 28.019338,-6.2e-5"
+       id="path5"
+       sodipodi:nodetypes="cczcc" />
     <circle
-       style="fill:currentColor;stroke-width:0.0924163"
+       style="fill:currentColor;stroke-width:0.0690113"
        id="path1"
        cx="66.145836"
-       cy="58.208336"
-       r="1.6933334" />
-    <circle
-       style="fill:currentColor;stroke-width:0.0924163"
-       id="circle1"
-       cx="66.145836"
-       cy="74.083336"
+       cy="58.500435"
        r="1.6933334" />
   </g>
 </svg>
